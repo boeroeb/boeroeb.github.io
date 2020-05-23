@@ -1,17 +1,14 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: Web yang berisi info IT dan tutorial belajar pemrograman seperti HTML, CSS, Bootstrap, JavaScript, Jquery, PHP, SQL, Laravel dan pemrograman lainnya.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile-1.png" alt="BERBAGIT" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<strong>BERBAGIT</strong> merupakan web yang berisi info IT dan tutorial belajar pemrograman seperti HTML, CSS, Bootstrap, JavaScript, Jquery, PHP, SQL, Laravel dan pemrograman lainnya. Kami akan memberikan tutorial pemrograman yang dapat dipelajari secara online dan gratis. Kamu dapat belajar HTML, CSS, Bootstrap, JavaScript, Jquery, PHP, SQL, Laravel, VueJs, dan pemrograman lainnya secara gratis di web ini dan tentu juga kami akan menyajikan informasi IT yang tidak kalah menariknya.
+
+Semoga web ini bisa bermanfaat, terutama untuk saya sendiri yang masih terus belajar dan juga untuk teman-teman di luar sana yang ingin belajar programing From Zero To Pro atau yang ingin menjadi Full Stack Developer. Karena keterbatasan waktu dan kegiatan sehari-hari yang harus dijalani, mohon maaf seandainya web ini tidak bisa update setiap hari ya.

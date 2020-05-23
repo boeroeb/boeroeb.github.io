@@ -2,6 +2,6 @@
 layout: category
 title: Blog
 slug: blog
-description: A category for general blog posts.
+description: Kumpulan artikel menarik dari web BERBAGIT. Ayo buruan baca.
 ---
 
