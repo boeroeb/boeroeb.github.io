@@ -4,8 +4,8 @@ layout: post
 title: Cara Menghitung Karakter dan Kata
 subtitle: Cara Gampang Menghitung Karakter dan Kata
 description: Cara gampang menghitung karakter dan kata yaitu dengan menggunakan javascript yang ada pada halaman ini. Agar SEO Friendly usahakan lebih dari 300 kata. 
-image: https://berbagit.com/assets/img/uploads/menghitung-karakter-kata.png
-optimized_image: https://berbagit.com/assets/img/uploads/menghitung-karakter-kata.png
+image: /assets/img/uploads/menghitung-karakter-kata.png
+optimized_image: /assets/img/uploads/menghitung-karakter-kata.png
 category: blog
 tags:
   - javascript
