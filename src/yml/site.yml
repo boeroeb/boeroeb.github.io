@@ -1,21 +1,35 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: BERBAGIT
+title: BERBAGIT | Berbagi Tentang IT
+description: Web yang berisi info IT dan tutorial belajar pemrograman seperti HTML, CSS, Bootstrap, JavaScript, Jquery, PHP, SQL, Laravel dan pemrograman lainnya.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - html
+  - css
+  - javascript
+  - php
+  - laravel
+email: berbagit45@gmail.com
+disqus_username: berbagit
 show_hero: true
 menu:
   - title: Home
     url: /
+  - title: HTML
+    url: /html
+  - title: CSS
+    url: /css
+  - title: JavaScript
+    url: /javascript
+  - title: Tutorial Lainnya
+    url: /tutorial
+  - title: Forum
+    url: /forum
+  - title: Blog
+    url: /category/blog
   - title: About
     url: /about
   - title: Contact
     url: /contact
   - title: Feed
-    url: /feed.xml
+    url: /feedburner
+  - title: Cari Apa
+    url: /cari
