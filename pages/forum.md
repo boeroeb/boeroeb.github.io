@@ -9,7 +9,7 @@ permalink: /forum/
 
 # Forum
 
-<iframe id="forum_embed" src="javascript:void(0)" style="width: 100%; height: 700; overflow: auto; border: none;"></iframe>
+<iframe id="forum_embed" src="javascript:void(0)" style="width: 100%; height: 700px; overflow: auto; border: none;"></iframe>
 <script>
   document.getElementById('forum_embed').src =
      'https://groups.google.com/forum/embed/?place=forum/berbagit'
