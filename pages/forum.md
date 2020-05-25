@@ -5,18 +5,12 @@ description: Ngobrol bareng seputar IT dan pemrograman. Sharing dari newbie samp
 permalink: /forum/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile-1.png" alt="Disclaimer" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile-1.png" alt="Forum" width="200">
 
-## Forum
+# Forum
 
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="100%"
-  height="700">
-</iframe>
-<script type="text/javascript">
+<iframe id="forum_embed" src="javascript:void(0)" style="width: 100%; height: 700; overflow: auto; border: none;"></iframe>
+<script>
   document.getElementById('forum_embed').src =
      'https://groups.google.com/forum/embed/?place=forum/berbagit'
      + '&showsearch=true&showpopout=true&showtabs=false'

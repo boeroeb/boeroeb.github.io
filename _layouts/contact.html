@@ -6,7 +6,7 @@ layout: page
 
 <div style="margin: 0px auto; max-width: 600px;">
 
-  <h2>{{ site.translations.contact.title | default: "Talk to me" }}</h2>
+  <h1>{{ site.translations.contact.title | default: "Talk to us" }}</h1>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
