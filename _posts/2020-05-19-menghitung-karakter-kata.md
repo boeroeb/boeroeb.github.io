@@ -29,7 +29,7 @@ Solusinya yaitu menggunakan javascript. Dengan menggunakan javascript kita bisa 
 ## Source Code
 Berikut ini source code untuk menghitung banyaknya kata atau karakter :
 ```html
- <script type="text/javascript">  
+ <script>  
       function words(content){  
            var i=0;  
            var numberofwords=1;  
@@ -48,25 +48,25 @@ Berikut ini source code untuk menghitung banyaknya kata atau karakter :
       }  
  </script>  
    
- <style type="text/css">  
+ <style>  
       input.berbagi{color:#ff8e1f;font:14px verdana,sans-serif;font-weight:bold;background-color:#feffbf;border:1px dashed #c9c8c8;height:20px}  
       textarea.berbagit{width:450px;height:100px;color:#24006b;font:12px arial;background:#e6febf;border:1px dotted #289728}  
  </style>  
    
- <center>  
+ <div style="text-align: center;">
  <form>  
       <textarea class="berbagit" cols="50" rows="5" onchange="this.form.char.value=this.value.length;this.form.word.value=words(this.value)"></textarea>  
       <br>  
       <input class="berbagi" name="char" size="4"> <b>Karakter</b>  
       <input class="berbagi" name="word" size="4"> <b>Kata</b>  
  </form>  
- </center>  
+ </div>  
 ```
 
 ## Hasil Akhir Fungsi Menghitung Karakter dan Kata
 Dibawah ini adalah tool untuk menghitung karakter dan kata :
 
- <script type="text/javascript">  
+ <script>  
       function words(content){  
            var i=0;  
            var numberofwords=1;  
@@ -85,19 +85,14 @@ Dibawah ini adalah tool untuk menghitung karakter dan kata :
       }  
  </script>  
    
- <style type="text/css">  
-      input.berbagi{color:#ff8e1f;font:14px verdana,sans-serif;font-weight:bold;background-color:#feffbf;border:1px dashed #c9c8c8;height:20px}  
-      textarea.berbagit{width:450px;height:100px;color:#24006b;font:12px arial;background:#e6febf;border:1px dotted #289728}  
- </style>  
-   
- <center>  
+ <div style="text-align: center;">  
  <form>  
-      <textarea class="berbagit" cols="50" rows="5" onchange="this.form.char.value=this.value.length;this.form.word.value=words(this.value)"></textarea>  
+      <textarea style="width:450px;height:100px;color:#24006b;font:12px arial;background:#e6febf;border:1px dotted #289728" cols="50" rows="5" onchange="this.form.char.value=this.value.length;this.form.word.value=words(this.value)"></textarea>  
       <br>  
-      <input class="berbagi" name="char" size="4"> <b>Karakter</b>  
-      <input class="berbagi" name="word" size="4"> <b>Kata</b>  
+      <input style="color:#ff8e1f;font:14px verdana,sans-serif;font-weight:bold;background-color:#feffbf;border:1px dashed #c9c8c8;height:20px" name="char" size="4"> <b>Karakter</b>  
+      <input style="color:#ff8e1f;font:14px verdana,sans-serif;font-weight:bold;background-color:#feffbf;border:1px dashed #c9c8c8;height:20px" name="word" size="4"> <b>Kata</b>  
  </form>  
- </center>  
+ </div>  
 
 Penggunaan tool ini yaitu dengan mengisi kolom diatas dengan teks yang ingin kita hitung, lalu tinggal klik di kolom karakter maka otomatis akan menghitung sendiri banyaknya karakter dan kata dari teks tersebut.
 

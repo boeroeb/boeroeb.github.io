@@ -5,7 +5,7 @@ description: Belajar Pemrograman From Zero To Pro. Menjadi Full Stack Developer.
 permalink: /tutorial/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/pemrograman.png" alt="Pemrograman" width="200">
+<img class="img-rounded" src="/assets/img/uploads/pemrograman.png" alt="Tutorial Pemrograman" width="200">
 
 # Tutorial Pemrograman
 
