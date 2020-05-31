@@ -12,9 +12,10 @@ tags:
   - css
   - html
   - seo
-author: heru
+author:
 paginate: false
 ---
+
 Terkadang kita kepo ingin megetahui berapa sih jumlah kata atau karakter yang ada pada postingan atau artikel yang kita buat dengan maksud agar lebih SEO Friendly gitu. Apakah kamu termasuk orang seperti itu ? Jika iya simak caranya dibawah ini.
 
 1. 
