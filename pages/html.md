@@ -16,7 +16,7 @@ Berikut ini daftar tutorial HTML lengkap From Zero To Pro. Semoga bisa dipelajar
 - [Tutorial HTML #3 : HTML Dasar](/dasar-html)
 - [Tutorial HTML #4 : Atribut HTML](/atribut-html)
 - [Tutorial HTML #5 : Heading di HTML](/heading-html)
-- [Paragraf pada HTML](#)
+- [Tutorial HTML #6 : Paragraf di HTML](/paragraf-html)
 - [Style pada HTML](#)
 - [Text Formatting pada HTML](#)
 - [Quotation dan Citation pada HTML](#)
