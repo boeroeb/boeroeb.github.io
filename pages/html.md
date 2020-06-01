@@ -11,11 +11,11 @@ permalink: /html/
 
 Berikut ini daftar tutorial HTML lengkap From Zero To Pro. Semoga bisa dipelajari dengan baik dan semoga bisa menjadi langkah awal bagi Anda yang ingin menjadi Full Stack Web Developer. Jika ada materi yang membingungkan, silakan ditanyakan melalui komentar di masing-masing link tutorial yang bersangkutan. Selamat belajar, semoga sukses. 
 
-- [Tutorial HTML #1 : Pengenalan HTML](https://berbagit.com/pengenalan-html/)
-- [Tutorial HTML #2 : Text Editor](https://berbagit.com/text-editor/)
-- [Tutorial HTML #3 : HTML Dasar](https://berbagit.com/dasar-html/)
-- [Tutorial HTML #4 : Atribut HTML](https://berbagit.com/atribut-html/)
-- [Heading pada HTML](#)
+- [Tutorial HTML #1 : Pengenalan HTML](/pengenalan-html)
+- [Tutorial HTML #2 : Text Editor](/text-editor)
+- [Tutorial HTML #3 : HTML Dasar](/dasar-html)
+- [Tutorial HTML #4 : Atribut HTML](/atribut-html)
+- [Tutorial HTML #5 : Heading di HTML](/heading-html)
 - [Paragraf pada HTML](#)
 - [Style pada HTML](#)
 - [Text Formatting pada HTML](#)
