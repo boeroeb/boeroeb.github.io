@@ -134,6 +134,6 @@ Secara default, nilai angka untuk width dan height adalah satuan pixel. Jadi jik
 ## Kesimpulan
 Meskipun atribut bisa ditulis dengan huruf besar/kapital, tetapi disarankan untuk menulis dengan huruf kecil semua, misalnya `title` lebih baik dari pada `TITLE`. Dan jangan lupa memakai tanda kutip untuk nilai atribut. Tanda kutip dua lebih baik daripada tanda kutip satu, kecuali ada special case misalnya `<p title='Motor "Amfibi" Milik Warga Jakarta'>` atau bisa dibalik `<p title="Motor 'Amfibi' Milik Warga Jakarta">`.
 
-Hasil dari koding diatas dapat dilihat di [halaman ini](/demo/html-atribut.html). Untuk hasil maksimal, silakan Anda latihan sesuai kreatifitas Anda sendiri, misalnya membuat halaman data diri atau halaman yang lainnya. Jika sudah selesai latihan, Anda bisa lanjut ke materi selanjutnya, yaitu mengenai Heading pada HTML.
+Hasil dari koding diatas dapat dilihat di [halaman ini](/demo/html-atribut.html). Untuk hasil maksimal, silakan Anda latihan sesuai kreatifitas Anda sendiri, misalnya membuat halaman data diri atau halaman yang lainnya. Jika sudah selesai latihan, Anda bisa lanjut ke materi selanjutnya, yaitu mengenai [Heading pada HTML](/heading-html).
 
 Demikian tutorial tentang HTML Atribut, semoga bisa bermanfaat buat kita semua. Jangan lupa di share ya kakak biar tambah bermanfaat. Jika ada pertanyaan, silakan bertanya di kolom komentar yaaa.
