@@ -119,6 +119,6 @@ Hampir semua browser akan menampilkan paragraf dengan benar meskipun tanpa tag p
 ## Kesimpulan
 Demikian penjelasan mengenai Paragraf pada HTML. Dimana tag paragraf ini akan memberikan spasi atau jarak sebelum dan sesudah tag, sehingga sangat berguna untuk diterapkan pada halaman HTML.
 
-Hasil dari koding pembahasan ini dapat dilihat di [link ini](/demo/html-paragraf.html). Jangan lupa berlatih menggunakan tag paragraf dan tag lainnya yang sudah dipelajari agar ilmu yang didapat dapat diingat lebih lama. Setelah selesai latihan, Anda dapat mempelajari materi selanjutnya yaitu mengenai Style pada HTML.
+Hasil dari koding pembahasan ini dapat dilihat di [link ini](/demo/html-paragraf.html). Jangan lupa berlatih menggunakan tag paragraf dan tag lainnya yang sudah dipelajari agar ilmu yang didapat dapat diingat lebih lama. Setelah selesai latihan, Anda dapat mempelajari materi selanjutnya yaitu mengenai [Style pada HTML](/style-html).
 
 Semoga bisa bermanfaat untuk semua. Dan jangan lupa klik tombol share nya untuk berbagi ke yang lain supaya tambah bermanfaat. Jika ada pertanyaan, silahkan tinggalkan di kolom komentar. Terima kasih.
