@@ -2,7 +2,7 @@
 date: 2020-05-28 06:41:17
 layout: post
 title: "Tutorial HTML #2 : Text Editor"
-subtitle: Persiapan yang dibutuhkan untuk belajar website
+subtitle: Persiapan yang dibutuhkan untuk belajar website apa saja ?
 description: Persiapan yang dibutuhkan untuk belajar website yaitu Text Editor dan Browser. Contohnya Sublime Text dan Google Chrome
 image: /assets/img/uploads/text-editor.png
 optimized_image: /assets/img/uploads/text-editor.png

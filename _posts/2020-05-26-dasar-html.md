@@ -2,7 +2,7 @@
 date: 2020-05-29 07:41:17
 layout: post
 title: "Tutorial HTML #3 : HTML Dasar"
-subtitle: Apa itu HTML ? HTML adalah kepanjangan dari Hyper Text Markup Language
+subtitle: Apa itu HTML ? HTML adalah kepanjangan dari Hyper Text Markup Language.
 description: Dasar - dasar HTML yaitu mempelajari susunan dokumen html, heading, paragraf, link, image, button dan list. Setelah itu membuat dokumen html sederhana
 image: /assets/img/uploads/html-dasar.png
 optimized_image: /assets/img/uploads/html-dasar.png

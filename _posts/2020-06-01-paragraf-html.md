@@ -2,7 +2,7 @@
 date: 2020-06-01 06:33:18
 layout: post
 title: "Tutorial HTML #6 : Paragraf di HTML"
-subtitle: Tag paragraf akan memberikan spasi/jarak sebelum dan sesudah tag
+subtitle: Tag paragraf akan memberikan spasi/jarak sebelum dan sesudah tag.
 description: Paragraf ditandai dengan tag atau elemen p. Pada saat tampil di website, maka akan ada spasi atau jarak sebelum dan sesudah tag paragraf.
 image: /assets/img/uploads/paragraf-html.png
 optimized_image: /assets/img/uploads/paragraf-html.png

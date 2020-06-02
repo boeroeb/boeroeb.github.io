@@ -111,6 +111,6 @@ Jika atribut style memiliki lebih dari 1 properti dan nilai, maka gunakan lah ta
 ## Kesimpulan
 Dengan menggunakan style atribut, maka elemen HTML menjadi lebih berwarna dan indah :). Pembahasan lengkap Style ini akan dibahas lebih mendalam nanti di pembelajaran [CSS](/css).
 
-Hasil dari koding pembahasan ini dapat dilihat di [link ini](/demo/html-style.html). Jangan lupa berlatih menggunakan style atribut ini, kreasikan hasil latihan Anda sebelumnya dengan menggunakan atribut style ini sehingga menjadi lebih indah dan berwarna :). Setelah selesai latihan, Anda dapat mempelajari materi selanjutnya yaitu mengenai Text Formating pada HTML.
+Hasil dari koding pembahasan ini dapat dilihat di [link ini](/demo/html-style.html). Jangan lupa berlatih menggunakan style atribut ini, kreasikan hasil latihan Anda sebelumnya dengan menggunakan atribut style ini sehingga menjadi lebih indah dan berwarna :). Setelah selesai latihan, Anda dapat mempelajari materi selanjutnya yaitu mengenai [Text Formating pada HTML](/text-formating-html).
 
 Semoga artikel ini bisa bermanfaat untuk kita semua. Jangan lupa klik tombol share untuk berbagi ke yang lain biar tambah bermanfaat. Jika ada yang ingin ditanyakan, silakan tinggalkan pertanyaan di kolom komentar di bawah. Terima kasih.
