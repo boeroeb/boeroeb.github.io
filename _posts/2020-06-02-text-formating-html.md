@@ -130,6 +130,6 @@ Tag Superscript ditandai dengan tag `<sup>` dan diakhiri dengan tag `</sup>`. Fu
 ## Kesimpulan
 Demikianlah pembahasan mengenai memformat teks pada HTML. Semoga dengan tutorial ini Anda dapat memformat teks yang ada pada dokumen html Anda.
 
-Hasil dari koding pembahasan ini dapat dilihat di [link ini](/demo/html-formating.html). Jangan lupa berlatih menggunakan elemen-elemen formating diatas, kreasikan hasil latihan Anda sebelumnya dengan menggunakan formating teks ini sehingga menjadi lebih enak dilihat. Setelah selesai latihan, Anda dapat mempelajari materi selanjutnya yaitu mengenai Quotation dan Citation pada HTML.
+Hasil dari koding pembahasan ini dapat dilihat di [link ini](/demo/html-formating.html). Jangan lupa berlatih menggunakan elemen-elemen formating diatas, kreasikan hasil latihan Anda sebelumnya dengan menggunakan formating teks ini sehingga menjadi lebih enak dilihat. Setelah selesai latihan, Anda dapat mempelajari materi selanjutnya yaitu mengenai [Quotation dan Citation pada HTML](/quotation-citation-html).
 
 Semoga bisa bermanfaat untuk kita semua, dan jangan lupa dishare supaya tambah bermanfaat. Jika ada pertanyaan, silakan tinggalkan di kolom komentar. Terima kasih.
