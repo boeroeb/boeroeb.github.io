@@ -1,6 +1,6 @@
 ---
 layout: cari
-title: Halaman Pencarian
+title: Cari Apa
 description: Halaman Pencarian.
 permalink: /cari/
 ---
