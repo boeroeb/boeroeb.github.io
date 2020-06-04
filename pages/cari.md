@@ -1,7 +1,7 @@
 ---
 layout: cari
-title: Cari Apa
-description: Halaman Pencarian.
+title: Pencarian
+description: Mau cari apa ? Ketik aja lalu Enter.
 permalink: /cari/
 ---
 <h3 style="margin-left: 1em">Pencarian</h3>
