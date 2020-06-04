@@ -2,7 +2,7 @@
 date: 2020-06-03 13:50:26
 layout: post
 title: "Tutorial HTML #9 : Quotation Citation di HTML"
-subtitle: Belajar kutipan pada HTML
+subtitle: Belajar kutipan pada HTML.
 description: Quotation dan Citation pada HTML bisa berupa tag short quote / q, blockquote, abbreviation / abbr, address, cite dan Bi-Directional Override atau bdo.
 image: /assets/img/uploads/quote-html.png
 optimized_image: /assets/img/uploads/quote-html.png
@@ -115,6 +115,6 @@ Atribut `dir` berfungsi untuk memberi tahu ke arah mana tulisan akan dibalik, ya
 ## Kesimpulan
 Demikian penjelasan mengenai Quotation dan Citation pada HTML. Sekarang sudah jelas kan bagaimana membuat kutipan di halaman HTML.
 
-Hasil dari koding pembahasan ini dapat dilihat di [link ini](/demo/html-quote.html). Jangan lupa berlatih menggunakan tanda-tanda quote diatas, buat sesuai kreasi Anda masing-masing. Setelah selesai latihan, Anda dapat mempelajari materi selanjutnya yaitu mengenai Komentar pada HTML.
+Hasil dari koding pembahasan ini dapat dilihat di [link ini](/demo/html-quote.html). Jangan lupa berlatih menggunakan tanda-tanda quote diatas, buat sesuai kreasi Anda masing-masing. Setelah selesai latihan, Anda dapat mempelajari materi selanjutnya yaitu mengenai [Komentar pada HTML](/komentar-html).
 
 Semoga tulisan ini bisa bermanfaat untuk kita semua. Jangan lupa untuk dishare kembali dan jika ada pertannyaan, silakan tinggalkan di kolom komentar. Terima kasih.
