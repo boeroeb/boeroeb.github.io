@@ -11,8 +11,14 @@ tags:
   - text-editor
   - browser
   - sublime-text
+  - visual-studio-code
+  - atom-editor
+  - brackets
+  - emacs
+  - komodo-edit
   - google-chrome
-author:
+  - mozilla-firefox
+author: berbagit
 paginate: false
 ---
 

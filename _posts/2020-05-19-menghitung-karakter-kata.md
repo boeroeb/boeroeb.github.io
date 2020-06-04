@@ -12,7 +12,7 @@ tags:
   - css
   - html
   - seo
-author:
+author: berbagit
 paginate: false
 ---
 
