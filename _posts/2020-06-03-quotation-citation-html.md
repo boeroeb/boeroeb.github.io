@@ -1,7 +1,7 @@
 ---
 date: 2020-06-03 13:50:26
 layout: post
-title: "Tutorial HTML #9 : Quotation Citation di HTML"
+title: "Tutorial HTML #9 : Quotation dan Citation di HTML"
 subtitle: Belajar kutipan pada HTML.
 description: Quotation dan Citation pada HTML bisa berupa tag short quote / q, blockquote, abbreviation / abbr, address, cite dan Bi-Directional Override atau bdo.
 image: /assets/img/uploads/quote-html.png
